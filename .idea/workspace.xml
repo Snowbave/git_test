@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4550ed72-5b40-4457-9372-41888f61a71e" name="Changes" comment="teste2">
+    <list default="true" id="4550ed72-5b40-4457-9372-41888f61a71e" name="Changes" comment="fin 09/12 15h">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pipipoupou.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pipipoupou.ipynb" afterDir="false" />
     </list>
@@ -77,7 +77,10 @@
       <workItem from="1757621779772" duration="3720000" />
       <workItem from="1757685993460" duration="713000" />
       <workItem from="1757690302316" duration="1758000" />
-      <workItem from="1757692143628" duration="7804000" />
+      <workItem from="1757692143628" duration="7878000" />
+      <workItem from="1757969700552" duration="826000" />
+      <workItem from="1758051812245" duration="4875000" />
+      <workItem from="1758290054177" duration="10550000" />
     </task>
     <task id="LOCAL-00001" summary="teste">
       <option name="closed" value="true" />
@@ -103,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757692004238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fin 09/12 15h">
+      <option name="closed" value="true" />
+      <created>1757703144202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757703144202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fin 09/12 15h">
+      <option name="closed" value="true" />
+      <created>1758075049816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758075049816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,28 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste" />
     <MESSAGE value="teste2" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/vazqu/OneDrive - UQAM/UQAM/5e session/Laboratoire3/tp1/pipipoupou.ipynb</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/vazqu/OneDrive - UQAM/UQAM/5e session/Laboratoire3/tp1/pipipoupou.ipynb</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/vazqu/OneDrive - UQAM/UQAM/5e session/Laboratoire3/tp1/pipipoupou.ipynb</url>
-          <line>61</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="fin 09/12 15h" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin 09/12 15h" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Laboratoire3$lire_netCDF.coverage" NAME="lire_netCDF Coverage Results" MODIFIED="1757550073578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
